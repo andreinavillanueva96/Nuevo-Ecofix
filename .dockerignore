@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.env
+Dockerfile
+.dockerignore
+nuevo-ecofix(1).zip
+*.pdf
+# Omiting PDFs from the docker context to keep it light, unless the user needs them.
+# If they are needed, they should be in a 'public' folder or imported.
