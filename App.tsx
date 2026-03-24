@@ -766,35 +766,35 @@ const ContratacionesPage = () => {
       label: "Contrato indefinido", 
       title: "Contrato Indefinido",
       desc: "Modelo de contrato indefinido.",
-      url: "/Contrato indefinido.pdf"
+      url: "/contrato-indefinido.pdf"
     },
     { 
       id: "temporal", 
       label: "Contrato temporal", 
       title: "Contrato Temporal",
       desc: "Modelo de contrato temporal.",
-      url: "/Contrato temporal-1.pdf"
+      url: "/contrato-temporal-1.pdf"
     },
     { 
       id: "practica", 
       label: "Contrato Prácticas", 
       title: "Contrato en Prácticas",
       desc: "Modelo de contrato en prácticas profesionales.",
-      url: "/Contrato en prácticas.pdf"
+      url: "/contrato-en-prácticas.pdf"
     },
     { 
       id: "alternancia", 
       label: "Contrato Alternancia", 
       title: "Contrato en Alternancia",
       desc: "Modelo de contrato en alternancia.",
-      url: "/Contrato en alternancia.pdf"
+      url: "/contrato-en-alternancia.pdf"
     },
     { 
       id: "eventual", 
       label: "Contrato eventual por circunstancias previsibles", 
       title: "Contrato Eventual",
       desc: "Modelo de contrato eventual.",
-      url: "/Contrato eventual.pdf"
+      url: "/contrato-eventual.pdf"
     }
   ];
 
@@ -804,35 +804,35 @@ const ContratacionesPage = () => {
       label: "Nómina contrado indefinido - PERSONAL DE LIMPIEZA", 
       title: "Nómina Indefinido - Limpieza",
       desc: "Modelo de nómina para personal de limpieza.",
-      url: "/Nomina contrato indefinido.pdf"
+      url: "/nomina-contrato-indefinido.pdf"
     },
     { 
       id: "temporal_soporte", 
       label: "Nómina Contrato Temporal - TÉCNICO DE SOPORTE ", 
       title: "Nómina Temporal - Soporte",
       desc: "Modelo de nómina para técnico de soporte.",
-      url: "/Nomina contrato temporal.pdf"
+      url: "/nomina-contrato-temporal.pdf"
     },
     { 
       id: "practicas_marketing", 
       label: "Nómina Contrato Prácticas -  MARKETING Y COMERCIAL ", 
       title: "Nómina Prácticas - Marketing",
       desc: "Modelo de nómina para marketing y comercial.",
-      url: "/Nomina contrato práctica.pdf"
+      url: "/nomina-contrato-practica.pdf"
     },
     { 
       id: "alternancia_almacen", 
       label: "Nómina Contrato Alternancia - MOZO DE ALMACÉN ", 
       title: "Nómina Alternancia - Almacén",
       desc: "Modelo de nómina para mozo de almacén.",
-      url: "/Nomina contrato en alternancia.pdf"
+      url: "/nomina-contrato-en-alternancia.pdf"
     },
     { 
       id: "eventual_instalador", 
       label: "Nómina Contrato Eventual -  TÉCNICO INSTALADOR /REPARADOR", 
       title: "Nómina Eventual - Instalador",
       desc: "Modelo de nómina para técnico instalador.",
-      url: "/Nomina contrato eventual por circunstancias previsibles.pdf"
+      url: "/nomina-contrato-eventual-por-circunstancias-previsibles.pdf"
     }
   ];
 
