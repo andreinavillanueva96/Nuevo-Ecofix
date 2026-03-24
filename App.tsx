@@ -794,7 +794,7 @@ const ContratacionesPage = () => {
       label: "Contrato eventual por circunstancias previsibles", 
       title: "Contrato Eventual",
       desc: "Modelo de contrato eventual.",
-      url: "/contrato-eventual.pdf"
+      url: "/nomina-contrato-eventual-por-circunstancias-previsibles.pdf"
     }
   ];
 
